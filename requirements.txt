@@ -4,3 +4,4 @@ numpy
 art
 win32com.client
 speech_recognition
+OS
