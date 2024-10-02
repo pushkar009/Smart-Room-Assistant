@@ -1,0 +1,6 @@
+opencv-python
+pyttsx3
+numpy
+art
+win32com.client
+speech_recognition
