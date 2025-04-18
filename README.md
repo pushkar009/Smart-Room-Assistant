@@ -3,9 +3,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/pushkar009/Smart-Room-Assistant)
 ![Python 3.9+](https://img.shields.io/badge/Python-v3.9%2B-blue)
 ![YOLOv4](https://img.shields.io/badge/YOLO-v4-green)
-<img src=https://img.shields.io/github/repo-size/pushkar009/Smart-Room-Assistant alt="Repo Size">
+![Repo Size](https://img.shields.io/github/repo-size/pushkar009/Smart-Room-Assistant)
+![Forks](https://img.shields.io/github/forks/pushkar009/Smart-Room-Assistant?color=yellowgreen)
 <!--[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)-->
-
 
 This is repository containing Mega project code for Smart Room Assistant. 
 
