@@ -262,7 +262,7 @@ if __name__ == '__main__':
         # Greetings1
         elif 'how are you' in query:
             speak("I'm Fine. How are you? Hope you are enjoying your day!")
-            #alternate
+        #alternate
         elif 'how are you' in query:
              speak("I'm Fine. How are you? Hope you are enjoying your day!")
         # Greetings2
@@ -275,4 +275,5 @@ if __name__ == '__main__':
         elif 'exit' in query:
             speak("exiting now! Have a nice day! Bye!")
             exit()
+
 
